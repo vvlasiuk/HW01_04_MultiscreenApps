@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Tour Guide App: Звенигородка</string>
+
+
+    <string name="category_cafes">Кафе та Ресторани</string>
+
+    <string name="category_hotel">Готелі</string>
+
+    <string name="category_fam_attract">Цікаві місця</string>
+
+    <string name="category_museums">Музеї</string>
+
+    <!--Отели-->
+    <string name="one_hotel_name">Готель Колос</string>
+    <string name="one_hotel_desc">Готель Колос розташований в центрі міста Звенигородка. Готель знаходиться на третьому і четвертому поверхах чотириповерхового будинку і пропонує своїм клієнтам номера категорій Економ (зручності на поверсі), Стандарт, Люкс і Студіо.</string>
+    <string name="one_hotel_addr">вулиця Шевченка, 320</string>
+    <string name="one_hotel_work">Реєстрація заїзду: з 13:00 - 14:00 годин. Реєстрація відїзду: до 12:00 - 13:00 годин</string>
+    <string name="one_hotel_tel">+38(677) 510-15-04</string>
+    <string name="one_hotel_site">https://hotels24.ua/uk/Zvenyhorodka/Hotel-Kolos-6894.html</string>
+
+    <string name="two_hotel_name">Міні-готель Золотий лев </string>
+    <string name="two_hotel_desc">"Міні готель Золотий Лев розташований в центрі м. Звенигородка, Черкаської області. Номерний фонд готелю складається з 8 номерів різних категорій. Номери обладнані кондиціонером, телевізором з плоским екраном. До послуг гостей провідний інтернет в готелі. Харчуватися гості можуть в ресторані готелю, також поруч є магазини і ринок. В меню ресторану європейська і українська кухні. Для автомобіля передбачена стоянка. Для комфорту проживання в готелі є цілодобове водопостачання та автономне опалення. Міні готель Золотий Лев знаходиться в 12-ти кілометрах від лижного курорту Водяники, приблизно 20 хвилин їзди.</string>
+    <string name="two_hotel_addr">вул. Гоголя, 9  </string>
+    <string name="two_hotel_work">Реєстрація заїзду: з 14:00 - 15:00 годин. Реєстрація відїзду: до 11:00 - 12:00 годин.</string>
+    <string name="two_hotel_tel">+38 (067) 510-15-04</string>
+    <string name="two_hotel_site">https://hotels24.ua/uk/Zvenyhorodka/Mini-hotel-Zolotoy-lev-5830.html/</string>
+
+    <!--Кафе-->
+    <string name="one_cafe_name">Піцерія</string>
+    <string name="one_cafe_desc">Смачна піца. </string>
+    <string name="one_cafe_addr">проспект Шевченка, 4, Звенигородка, Черкаська область, 20200</string>
+    <string name="one_cafe_work">11:00-23:00</string>
+    <string name="one_cafe_tel">068 320 4362</string>
+    <string name="one_cafe_site"></string>
+
+    <string name="two_cafe_name">Козак</string>
+    <string name="two_cafe_desc">Українська кухня.</string>
+    <string name="two_cafe_addr">Звенигородка,</string>
+    <string name="two_cafe_work">11:00 - 00:00</string>
+    <string name="two_cafe_tel">04740 25150</string>
+    <string name="two_cafe_site"></string>
+
+    <!--Достропримечательности-->
+    <string name="one_fam_name">Звенигора</string>
+    <string name="one_fam_desc">За часів татаро-монгольських навал тут сторожа стояла. Коли вартові на горі бачила наступ ворогів, то дзвонили в дзвін, збирали довколишній люд, щоб протистояти натиску ворогів. Звідси і пішла назва Дзвін-гора, Звенигора. А ще в середині цієї гори був зроблений підземний хід, де під час нападу ховалися жінки і діти.
+Побіля гори люди знаходили списки, луки, шаблі, що підтверджує перекази про те, що не раз точилися битви. Розповідають, що на захід від села було знайдено і дзвін, який тікаючи полишили загарбники.
+Звенигора розміщена на північно-східній частині села, на самому березі невеличкої річки.
+Висота гори 35-40 м над рівнем моря. В південно-західній частині Звенигори знаходиться велика яма від снарядів.</string>
+    <string name="one_fam_addr">с. Гудзівка</string>
+    <string name="one_fam_work">Цілодобово</string>
+    <string name="one_fam_tel">Дзвін</string>
+    <string name="one_fam_site"></string>
+
+    <!--Музеи-->
+    <string name="one_mus_name">Звенигородський краєзнавчий музей</string>
+    <string name="one_mus_desc">Звенигородський краєзнавчий музей є єдиним музеєм в місті.</string>
+    <string name="one_mus_addr"> вул. Чорновола 41</string>
+    <string name="one_mus_work">з 10.00 до 17.00.</string>
+    <string name="one_mus_tel">Тел.: (04740) 5-38-39</string>
+    <string name="one_mus_site"></string>
+
+</resources>
